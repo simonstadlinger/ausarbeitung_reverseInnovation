@@ -4,7 +4,7 @@
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
-\usepackage[left=2cm, right=2cm, top= 2cm, bottom = 2cm]{geometry}
+\usepackage[left=2.5cm, right=2.5cm, top= 2cm, bottom = 2cm]{geometry}
 \usepackage{setspace}
 \usepackage{times}
 \usepackage[svgnames]{xcolor}
@@ -46,14 +46,22 @@
 %\thesection - Aktuelle Unterkapitelnummerierung
 %\slshape - Kursiv und Sanseriv
 
-\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+
 \author{Simon  Stadlinger}
 \begin{document}
 %_________________Titelseite_______________________________________
 	\begin{titlepage}
 		\centering
+		\includegraphics[scale=.6]{hpi_logo.jpg}\\\vspace{2cm}
+		{\Large Unternehmerisches Denken und Handeln}\\\vspace{2cm}
+		{\Huge \textbf{Reverse Innovation}}\\\vspace{2cm}
+		{\large Vorgelegt von}\\\vspace{.5cm}
+		{\Large Caterina Mandel, Jannis Bolik und Simon Stadlinger  }\\\vspace{.5cm}
+		{\large am}\\\vspace{.5cm}
+		{\Large heute }\\\vspace{5cm}
+		{\large Professur:}\\\vspace{.5cm}
+		{\Large Prof. Dr. Katherina Hölzle}
 		
-		{\huge \textbf{Reverse Innovation}}
 		
 	\end{titlepage}
 \newpage
@@ -62,13 +70,24 @@
 \newpage
 \pagestyle{fancy}
 %________________Hauptteil_________________________________________
+
+
+
 %================Inhaltsverzeichnis================================
 \tableofcontents\newpage
-%================Einleitung========================================
+%================Einleitung===========Caterina=====================
 \section{Von der Globalisierung zu Reverse Innovation}
 ist ne schwierige Story
 \subsection{Motivation}
 ist ne lange Geschichte
-%________________Quellen___________________________________________
+%================Reverse Innovation===Jannis=======================
+\section{Reverse Innovation}
+voll heftige Sache, die funzt
+%================Glocolisation========Simon========================
+\section{Glocolisation}
+is eher net so upto date
 
+
+%________________Quellen___________________________________________
+%optional JabRef, andonsten direkte Quellenverwaltung
 \end{document}

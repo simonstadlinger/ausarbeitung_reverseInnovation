@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.7)  28 NOV 2017 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.7)  28 NOV 2017 19:37
 entering extended mode
 **./ausarbeitung.tex
 (ausarbeitung.tex
@@ -809,14 +809,14 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
 * v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
+* \textwidth=455.24411pt
 * \textheight=731.23584pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
 * \topmargin=-52.7645pt
 * \headheight=17.0pt
 * \headsep=20.40001pt
@@ -891,7 +891,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 {C:/Users/stadl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./hpi_logo.
 jpg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 62.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 69.
 
 [2] (ausarbeitung.toc
 number indent by \l@... (toc, 1):  0.0pt
@@ -904,17 +904,27 @@ text indent by \l@... (toc, 2):  25.18501pt
 number indent by parent (toc, 2):  11.56311pt
 text indent calculated (toc, 2): 19.16246pt
 number indent calculated (toc, 2): 11.56311pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  16.42499pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 11.56311pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  16.42499pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 11.56311pt
+number indent calculated (toc, 1): 0.0pt
 )
 \tf@toc=\write4
 \openout4 = `ausarbeitung.toc'.
 
  [3] [4] (ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 8627 strings out of 493634
- 130682 string characters out of 3135240
- 281336 words of memory out of 3000000
- 11844 multiletter control sequences out of 15000+200000
- 27639 words of font info for 41 fonts, out of 3000000 for 9000
+ 8626 strings out of 493634
+ 130664 string characters out of 3135240
+ 281330 words of memory out of 3000000
+ 11842 multiletter control sequences out of 15000+200000
+ 30361 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  54i,11n,50p,329b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/stadl/AppData/Local/Programs/MiKTeX 2.9/
@@ -922,7 +932,7 @@ fonts/enc/dvips/fontname/8r.enc}<C:/Users/stadl/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/stadl/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/stadl/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ausarbeitung.pdf (4 pages, 211050 bytes).
+Output written on ausarbeitung.pdf (4 pages, 213217 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
