@@ -1,17 +1,75 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass[a4paper,11pt]{scrartcl}
+
 \usepackage[utf8]{inputenc}
-\usepackage[german]{babel}
+\usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{makeidx}
+\usepackage[left=2cm, right=2cm, top= 2cm, bottom = 2cm]{geometry}
+\usepackage{setspace}
+\usepackage{times}
+\usepackage[svgnames]{xcolor}
+\setcounter{tocdepth}{3}
 \usepackage{graphicx}
-\usepackage{lmodern}
-\usepackage{kpfonts}
+\usepackage{tocstyle}
+\usetocstyle{KOMAlike}
+\usepackage{multicol}
+\usepackage{url}
+\usepackage{epstopdf}
+\usepackage{verbatim}
+\usepackage{listings} 
+
+
+	
+\usepackage{pdfpages}
+\usepackage{capt-of}
+\usepackage{comment}
+%\pagestyle[headings] %normale vordefinierte Kopfzeile. Meist der Titel des auf dieser Seite gezeigten Inhaltsabschnitts
+\usepackage{fancyhdr}
+\bibliographystyle{unsrt} 
+
+\pagestyle{fancy}
+%Selbsteingestellte Kopf- und Fußzeilenbefehle
+\lhead{\leftmark}
+\chead{}
+\rhead{Reverse Innovation} %kopfzeile, rechts-center-links
+
+\rfoot{}
+\cfoot{\thepage}
+\lfoot{}
+
+%Befehle um Kopfund Fuszeile Anzupassen:
+%\thepage - Seitennummer
+%\leftmark - Aktueller Kapitelname "Kapitel X. Name des Kapitels"
+%\rightmark - Aktueller Untertitelname "X.X Name des Kapitels
+%\chaptername - Das Wort "Kapitel"
+%\thechapter - Aktuelle Kapitelnummerierung
+%\thesection - Aktuelle Unterkapitelnummerierung
+%\slshape - Kursiv und Sanseriv
 
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \author{Simon  Stadlinger}
 \begin{document}
-Das ist der Beginn eines Epos
+%_________________Titelseite_______________________________________
+	\begin{titlepage}
+		\centering
+		\includegraphics[scale=.6]{hpi_logo.jpg}\\\vspace{2cm}
+		{\LARGE Modul "`Unternehmerisches Denken und Handeln"'}\\\vspace{.4cm}
+		{\Huge \textbf{Reverse Innovation}}\\\vspace{2cm}
+		
+	\end{titlepage}
+\newpage
+\thispagestyle{empty}
+\section*{}
+\newpage
+\pagestyle{fancy}
+%________________Hauptteil_________________________________________
+%================Inhaltsverzeichnis================================
+\tableofcontents\newpage
+%================Einleitung========================================
+\section{Von der Globalisierung zu Reverse Innovation}
+ist ne schwierige Story
+\subsection{Motivation}
+ist ne lange Geschichte
+%________________Quellen___________________________________________
+
 \end{document}
