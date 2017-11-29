@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.7)  28 NOV 2017 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.7)  29 NOV 2017 22:15
 entering extended mode
 **./ausarbeitung.tex
 (ausarbeitung.tex
@@ -625,93 +625,6 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.
-sty"
-Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
-ekeys.sty"
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
-ys.sty"
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
-s.sty"
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
-x.sty"
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
-mds.sty"
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-))
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.sty
-"
-Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks23
-\verbatim@line=\toks24
-\verbatim@in@stream=\read1
-)
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
-\lst@mode=\count115
-\lst@gtempboxa=\box55
-\lst@token=\toks25
-\lst@length=\count116
-\lst@currlwidth=\dimen132
-\lst@column=\count117
-\lst@pos=\count118
-\lst@lostspace=\dimen133
-\lst@width=\dimen134
-\lst@newlines=\count119
-\lst@lineno=\count120
-\lst@maxwidth=\dimen135
-
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count121
-\lst@skipnumbers=\count122
-\lst@framebox=\box56
-)
-("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
-File: listings.cfg 2015/06/04 1.6 listings configuration
-))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
 sty"
 Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
@@ -721,15 +634,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count123
-\calc@Bcount=\count124
-\calc@Adimen=\dimen136
-\calc@Bdimen=\dimen137
+\calc@Acount=\count115
+\calc@Bcount=\count116
+\calc@Adimen=\dimen132
+\calc@Bdimen=\dimen133
 \calc@Askip=\skip53
 \calc@Bskip=\skip54
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count125
+\calc@Ccount=\count117
 \calc@Cskip=\skip55
 )
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
@@ -740,18 +653,18 @@ Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 i.sty"
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 ))
-\AM@pagewidth=\dimen138
-\AM@pageheight=\dimen139
+\AM@pagewidth=\dimen134
+\AM@pageheight=\dimen135
 
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
 def"
 File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box57
-\AM@global@opts=\toks26
-\AM@toc@title=\toks27
-\c@AM@survey=\count126
-\AM@templatesizebox=\box58
+\AM@pagebox=\box55
+\AM@global@opts=\toks23
+\AM@toc@title=\toks24
+\c@AM@survey=\count118
+\AM@templatesizebox=\box56
 )
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\capt-of\capt-of.st
 y"
@@ -767,7 +680,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              I'd suggest to use 
 (scrartcl)              package `scrlayer-scrpage'.
 (scrartcl)              Nevertheless, using requested
-(scrartcl)              package `fancyhdr' on input line 28.
+(scrartcl)              package `fancyhdr' on input line 23.
 
 
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
@@ -784,19 +697,19 @@ sty"
 ) (ausarbeitung.aux)
 \openout1 = `ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 46.
 
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -839,36 +752,35 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
-\scratchdimen=\dimen140
-\scratchbox=\box59
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count130
-\MPscratchDim=\dimen141
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count119
+\scratchdimen=\dimen136
+\scratchbox=\box57
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen137
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks26
 )
-LaTeX Font Info:    Try loading font information for T1+phv on input line 51.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 46.
  ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 51.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 51.
-Package tocstyle Info: prepare \l@part for redefinition on input line 51.
-Package tocstyle Info: prepare \l@section for redefinition on input line 51.
-Package tocstyle Info: prepare \l@subsection for redefinition on input line 51.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 46.
+Package tocstyle Info: prepare \l@part for redefinition on input line 46.
+Package tocstyle Info: prepare \l@section for redefinition on input line 46.
+Package tocstyle Info: prepare \l@subsection for redefinition on input line 46.
 
 Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
-51.
-Package tocstyle Info: prepare \l@table for redefinition on input line 51.
-Package tocstyle Info: prepare \l@figure for redefinition on input line 51.
-\c@lstlisting=\count133
-\AtBeginShipoutBox=\box60
+46.
+Package tocstyle Info: prepare \l@table for redefinition on input line 46.
+Package tocstyle Info: prepare \l@figure for redefinition on input line 46.
+\AtBeginShipoutBox=\box58
 
 ("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
 .sty"
@@ -882,16 +794,16 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 ) <hpi_logo.jpg, id=1, 245.718pt x 138.7584pt>
 File: hpi_logo.jpg Graphic file (type jpg)
  <use hpi_logo.jpg>
-Package pdftex.def Info: hpi_logo.jpg used on input line 55.
+Package pdftex.def Info: hpi_logo.jpg used on input line 50.
 (pdftex.def)             Requested size: 147.43193pt x 83.25568pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 57.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
  [1
 
 {C:/Users/stadl/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./hpi_logo.
 jpg>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 69.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 64.
 
 [2] (ausarbeitung.toc
 number indent by \l@... (toc, 1):  0.0pt
@@ -918,23 +830,31 @@ number indent calculated (toc, 1): 0.0pt
 \tf@toc=\write4
 \openout4 = `ausarbeitung.toc'.
 
- [3] [4] (ausarbeitung.aux) ) 
+ [3] [4]
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 106.
+
+("C:\Users\stadl\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+[5] (ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 8626 strings out of 493634
- 130664 string characters out of 3135240
- 281330 words of memory out of 3000000
- 11842 multiletter control sequences out of 15000+200000
- 30361 words of font info for 43 fonts, out of 3000000 for 9000
+ 6905 strings out of 493634
+ 103827 string characters out of 3135240
+ 251183 words of memory out of 3000000
+ 10154 multiletter control sequences out of 15000+200000
+ 33830 words of font info for 47 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 54i,11n,50p,329b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/stadl/AppData/Local/Programs/MiKTeX 2.9/
-fonts/enc/dvips/fontname/8r.enc}<C:/Users/stadl/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/stadl/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/stadl/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on ausarbeitung.pdf (4 pages, 213217 bytes).
+ 43i,11n,50p,289b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/stadl/AppData/Local/Programs/MiKTeX 2.9/fonts
+/enc/dvips/fontname/8r.enc}<C:/Users/stadl/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/courier/ucrr8a.pfb><C:/Users/stadl/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/stadl/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/stadl/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/stadl/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ausarbeitung.pdf (5 pages, 241758 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 \documentclass[a4paper,11pt]{scrartcl}
-
+%- - - - - - - - - Präambel - - - - - - - - - - - - - - - - - - - - - 
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
@@ -14,11 +14,6 @@
 \usetocstyle{KOMAlike}
 \usepackage{multicol}
 \usepackage{url}
-\usepackage{epstopdf}
-\usepackage{verbatim}
-\usepackage{listings} 
-
-
 	
 \usepackage{pdfpages}
 \usepackage{capt-of}
@@ -46,7 +41,7 @@
 %\thesection - Aktuelle Unterkapitelnummerierung
 %\slshape - Kursiv und Sanseriv
 
-
+%  - - - - - - - - - - -  Dokument - - - - - - - - - - - - - - - - 
 \author{Simon  Stadlinger}
 \begin{document}
 %_________________Titelseite_______________________________________
@@ -58,7 +53,7 @@
 		{\large Vorgelegt von}\\\vspace{.5cm}
 		{\Large Caterina Mandel, Jannis Bolik und Simon Stadlinger  }\\\vspace{.5cm}
 		{\large am}\\\vspace{.5cm}
-		{\Large heute }\\\vspace{5cm}
+		{\Large gestern }\\\vspace{5cm}
 		{\large Professur:}\\\vspace{.5cm}
 		{\Large Prof. Dr. Katherina Hölzle}
 		
@@ -75,19 +70,41 @@
 
 %================Inhaltsverzeichnis================================
 \tableofcontents\newpage
-%================Einleitung===========Caterina=====================
-\section{Von der Globalisierung zu Reverse Innovation}
-ist ne schwierige Story
-\subsection{Motivation}
-ist ne lange Geschichte
-%================Reverse Innovation===Jannis=======================
-\section{Reverse Innovation}
-voll heftige Sache, die funzt
-%================Glocolisation========Simon========================
-\section{Glocolisation}
-is eher net so upto date
+%Caterina===========Einleitung===========Caterina==================
+\section{Motivation}
+
+
+
+\section{Von der GLobalisierung zu Reverse Innovation}
+
+
+
+
+%Jannis==========Reverse Innovation=================================
+\section{Reverse Innovation am Beispiel GE}
+
+
+
+
+
+\subsection{}
+
+
+
+
+%Simon============Fehlgeschlagene Glocolisation, Emerging Giants 
+\section{Gründe für Reverse}
+
 
 
 %________________Quellen___________________________________________
-%optional JabRef, andonsten direkte Quellenverwaltung
+\newpage
+\begin{thebibliography}{1}
+
+\bibitem{GE}Havard Business Review, Oktober  2009, \textit{How GE is disrupting itsself}, Jeffrey R. Immelt, Vijay Govindarajan, Chris Trimble, 
+\bibitem{FI}Springer Fachmedien Wiesbaden GmbH, 2017,\textit{Frugale bzw. Reverse Innovation}, Shah-Paulini
+\bibitem{TedTalk}TEDx Talks, März 2012,\textit{TEDxBigApple - Vijay Govindarajan - Reverse Innovation}, \url{https://www.youtube.com/watch?v=ztna1lt_LZE&t=915s}, aufgerufen am 27. November 2017
+
+
+\end{thebibliography}
 \end{document}
